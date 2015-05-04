@@ -1,1 +1,0 @@
-ModPE.setGameSpeed(60);
