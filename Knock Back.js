@@ -1,3 +1,5 @@
+var knockback = true;
+
 function attackHook(attacker, victim)
 {
 if(knockback==true){
