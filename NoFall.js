@@ -4,6 +4,7 @@ var falling = 0;
 var next = 0;
 var px,py,pz,x,y,z,vel,saver;
 var cd = 0;
+var nofall = true;
 
 function modTick()
 {
