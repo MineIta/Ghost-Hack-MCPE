@@ -1,5 +1,5 @@
 function useItem(x, y, z, itemid, blockid, side)
 {
-clientMessage("SPAM!! SPAM!! SPAM!! SPAM!! SPAM!! SPAM!!");
-Server.sendChat("SPAM!! SPAM!! SPAM!! SPAM!! SPAM!! SPAM!!");
+clientMessage("37.187.38.174 / 19132 37.187.38.174 / 19132");
+Server.sendChat("37.187.38.174 / 19132 37.187.38.174 / 19132");
 }
